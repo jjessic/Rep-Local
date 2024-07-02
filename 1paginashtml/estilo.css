@@ -1,0 +1,31 @@
+.s1{
+    color: rgb(98, 0, 255);
+}
+
+.s2{
+    color: red;
+}
+
+.d1{
+    background-color: rgb(156, 253, 221);
+    padding: 20px;
+    margin: 20px;
+}
+
+.d2{
+    background-color: rgb(239, 255, 150); 
+    padding: 20px;
+    margin: 20px;
+}
+
+.d3{
+    background-color: rgb(240, 137, 247); 
+    padding: 20px;
+    margin: 20px;
+}
+
+.container{
+    display: grid; 
+    grid-template-columns: 33% 33% 33%;
+    
+}
